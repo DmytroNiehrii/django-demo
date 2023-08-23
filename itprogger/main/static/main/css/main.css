@@ -53,3 +53,9 @@ main .features {
     text-align: center;
     width: 75%;
 }
+
+form {
+    margin-left: 32%;
+    width: 500px;
+    margin-top: 50px;
+}
